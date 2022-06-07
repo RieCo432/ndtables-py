@@ -1,6 +1,3 @@
-# Virtual Environments
-venv/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+
+# IDEs
+.idea/
 
 # Distribution / packaging
 .Python
